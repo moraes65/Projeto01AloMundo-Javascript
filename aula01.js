@@ -1,0 +1,1 @@
+document.write("Alo Mundo JavaScript - arquivo aula01.js");
